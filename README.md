@@ -1,12 +1,17 @@
 # 🧠 TripGenius — Your Personal AI Travel Planner & Itinerary Generator
 Your intelligent travel companion for creating personalized itineraries, discovering destinations, and planning perfect trips with AI-powered recommendations.
 
-**React** **Vite** **Firebase** **Google Gemini** **Tailwind CSS** **License**
+![React](https://img.shields.io/badge/frontend-react-blue?logo=react)
+![Vite](https://img.shields.io/badge/build-vite-purple?logo=vite)
+![Firebase](https://img.shields.io/badge/backend-firebase-orange?logo=firebase)
+![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-red?logo=google)
+![Tailwind CSS](https://img.shields.io/badge/styling-tailwind%20css-38b2ac?logo=tailwind-css)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## 📌 Overview
 TripGenius is a full-stack travel planning application designed to help users create personalized travel itineraries through AI-powered recommendations, manage their trip history, and discover amazing destinations tailored to their preferences and budget.
 
-## 📖 Repository: https://github.com/reena001/tripgenius
+📖 Repository: https://github.com/reenagupta-tech/TripGenius
 
 ## ✨ Features
 
@@ -160,22 +165,22 @@ Open your browser at:
 ## 📱 Screenshots
 
 ### Landing Page
-![Landing Page](https://github.com/reena001/tripgenius/blob/main/public/asset/1.1.png)
+![Landing Page](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/1.1.png)
 
 ### Google OAuth Sign in
-![Google OAuth Sign in](https://github.com/reena001/tripgenius/blob/main/public/asset/2.png)
+![Google OAuth Sign in](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/2.png)
 
 ### Create Trip Page
-![Create Trip Page](https://github.com/reena001/tripgenius/blob/main/public/asset/4.4.png)
+![Create Trip Page](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/4.4.png)
 
 ### View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-![View Trip Page: AI-generated Hotel Recommendations & Places to Visit](https://github.com/reena001/tripgenius/blob/main/public/asset/7.png)
+![View Trip Page: AI-generated Hotel Recommendations & Places to Visit](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/7.png)
 
 ### My Trips Page
-![My Trips Page](https://github.com/reena001/tripgenius/blob/main/public/asset/6.png)
+![My Trips Page](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/6.png)
 
 ### Responsive view on mobile
-![Responsive view on mobile](https://github.com/reena001/tripgenius/blob/main/public/asset/8.jpg)
+![Responsive view on mobile](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/8.jpg)
 
 
 ## 👨‍💻 Author
