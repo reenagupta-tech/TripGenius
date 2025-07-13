@@ -165,29 +165,30 @@ Open your browser at:
 ## 📱 Screenshots
 
 ### Landing Page
-![Landing Page](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/1.1.png)
+<img src="https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/1.1.png" alt="Landing Page" width="600"/>
 
 ### Google OAuth Sign in
-![Google OAuth Sign in](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/2.png)
+<img src="https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/2.png" alt="Google OAuth Sign in" width="600"/>
 
 ### Create Trip Page
-![Create Trip Page](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/4.4.png)
+<img src="https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/4.4.png" alt="Create Trip Page" width="600"/>
 
 ### View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-![View Trip Page: AI-generated Hotel Recommendations & Places to Visit](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/7.png)
+<img src="https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/7.png" alt="View Trip Page: AI-generated Hotel Recommendations & Places to Visit" width="600"/>
 
 ### My Trips Page
-![My Trips Page](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/6.png)
+<img src="https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/6.png" alt="My Trips Page" width="600"/>
 
 ### Responsive view on mobile
-![Responsive view on mobile](https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/8.jpg)
+<img src="https://github.com/reenagupta-tech/TripGenius/blob/main/public/asset/8.jpg" alt="Responsive view on mobile" width="300"/>
+
 
 
 ## 👨‍💻 Author
 
 **Reena Gupta**
-- GitHub: [@reena001](https://github.com/reena001)
-- LinkedIn: [Reena Gupta](https://linkedin.com/in/reena-gupta)
+- GitHub: [@reenagupta-tech](https://github.com/reenagupta-tech)
+- LinkedIn: [Reena Gupta](https://linkedin.com/in/reena-gupta-9bbb972a6)
 
 ---
 
